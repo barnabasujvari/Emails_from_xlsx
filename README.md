@@ -1,6 +1,8 @@
 # Emails_from_xlsx
  A python script I wrote to help the organiser team of hacktheburgh, so we can efficiently tailor the emails to each sponsor. You can see the format of the email being sent by the program below: if fills in every {} with the relevantinformation
- 
+
+## Email template:
+
 ### Dear {Company_Name}
 
  We’re reaching out because we’re beginning to offer limited sponsorship opportunities for companies we think would be a good fit for our audience and we would love to have **{Company_Name}** as one of our main sponsors.
